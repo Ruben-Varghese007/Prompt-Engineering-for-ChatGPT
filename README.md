@@ -19,9 +19,6 @@ Whether you're an experienced developer, an inquisitive marketer, or simply expl
 ### Step #1 - Your First Prompt
 #### Let's kick off this project by asking ChatGPT a basic question.
 - Log in to [ChatGPT](https://chatgpt.com/), or your preferred AI model.
-- Few other models are:
--> [Gemini](https://gemini.google.com/app)
--> [Claude](https://claude.ai/)
--> [Microsoft Copilot](https://copilot.microsoft.com/)
+- Few other models are: [Gemini](https://gemini.google.com/app), [Claude](https://claude.ai/), [Microsoft Copilot](https://copilot.microsoft.com/)
 
 
