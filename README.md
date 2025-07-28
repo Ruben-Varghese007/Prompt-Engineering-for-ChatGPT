@@ -17,8 +17,7 @@ Whether you're an experienced developer, an inquisitive marketer, or simply expl
 
 ## Instructions
 ### Step #1 - Your First Prompt
-#### Let's kick off this project by asking ChatGPT a basic question. ####
-Log in to [ChatGPT](https://chatgpt.com/), or your preferred AI model.
-- 
+#### Let's kick off this project by asking ChatGPT a basic question.
+Log in to [ChatGPT](https://chatgpt.com/), or your preferred AI model. 
 
 
