@@ -5,7 +5,7 @@
 Welcome to this prompt engineering project!
 Whether you're an experienced developer, an inquisitive marketer, or simply exploring, learning to craft effective prompts will help you get the most out of AI models like ChatGPT.
 
-### Clone the Repository (Terminal)
+#### Instructions
 - Navigate to your project directory
   ```sh
   cd path_to_your_project
@@ -15,8 +15,8 @@ Whether you're an experienced developer, an inquisitive marketer, or simply expl
   git clone 
   ```
 
-### To Start the Project from Scratch
-- 
+### Instructions
+- Your 
 - 
 
 
