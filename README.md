@@ -7,7 +7,7 @@ Welcome to this prompt engineering project!
 Whether you're:
 * An experienced developer, 
 * A market researcher, or 
-* Simply exploring AI, 
+* Simply exploring AI,   
 Learning to design effective prompts will help you get the most from Large Language Models (LLMs).
 
 ## 🚀 Getting Started
