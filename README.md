@@ -10,7 +10,7 @@ Whether you're:
 * A market researcher, or 
 * Simply exploring AI,
 
-Learning to design effective prompts will help you get the most from Large Language Models (LLMs).
+Learning to design effective prompts will help you get better results from AI tools like ChatGPT, Claude, and Gemini — all powered by Large Language Models (LLMs).
 
 ## 🚀 Getting Started
 
@@ -18,7 +18,7 @@ Learning to design effective prompts will help you get the most from Large Langu
 
 
 #### Let's kick off this project by asking ChatGPT a basic question.
-- Log in to [ChatGPT](https://chatgpt.com/), or your preferred AI model.
+- Log in to [ChatGPT](https://chat.openai.com/), or your preferred AI model.
 - Few other models are: [Gemini](https://gemini.google.com/app), [Claude](https://claude.ai/) and [Microsoft Copilot](https://copilot.microsoft.com/).
 ### Let's Begin
 - Send your First Prompt
