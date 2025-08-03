@@ -4,6 +4,7 @@ Prompt Engineering is the art of crafting effective prompts to guide AI tools li
 
 ## 📖 Introduction
 Welcome to this prompt engineering project!
+
 Whether you're:
 * An experienced developer, 
 * A market researcher, or 
