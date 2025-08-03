@@ -20,5 +20,10 @@ Whether you're an experienced developer, an market researcher, or simply explori
 #### Let's kick off this project by asking ChatGPT a basic question.
 - Log in to [ChatGPT](https://chatgpt.com/), or your preferred AI model.
 - Few other models are: [Gemini](https://gemini.google.com/app), [Claude](https://claude.ai/) and [Microsoft Copilot](https://copilot.microsoft.com/).
+### Let's Begin
+- Send your First Prompt
+  Let's start this project by asking ChatGPT a simple question.
+
+* A section on **Best Practices** for prompting
 
 
