@@ -22,6 +22,7 @@ Learning to design effective prompts will help you get better results from AI to
 
 ### ▶️ Let's Begin
 - Send your First Prompt
+
   Let's start this project by asking ChatGPT a simple question.
 
   ```markdown
