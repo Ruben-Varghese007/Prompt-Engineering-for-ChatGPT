@@ -16,13 +16,17 @@ Learning to design effective prompts will help you get better results from AI to
 
 ### ✅ Step 1 - Your First Prompt
 
-
 #### Let's kick off this project by asking ChatGPT a basic question.
 - Log in to [ChatGPT](https://chat.openai.com/), or your preferred AI model.
 - Few other models are: [Gemini](https://gemini.google.com/app), [Claude](https://claude.ai/) and [Microsoft Copilot](https://copilot.microsoft.com/).
-### Let's Begin
+
+### ▶️ Let's Begin
 - Send your First Prompt
   Let's start this project by asking ChatGPT a simple question.
+
+  ```markdown
+  1. What are 5 creative uses of AI in education ?
+  ```
 
 
 
