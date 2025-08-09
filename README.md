@@ -25,10 +25,7 @@ Learning to design effective prompts will help you get better results from AI to
 
   Let's start this project by asking ChatGPT a simple question.
 
-1. 
-  ```markdown
-  What are 5 creative uses of AI in education ?
-  ```
+  1. `What are 5 creative uses of AI in education ?`
 
 
 
